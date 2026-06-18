@@ -1,4 +1,4 @@
-![Task Manager Banner](mmm.jpg)
+![Task Manager Banner](mmm.png)
 
 # 🌸 Skin Care Store App
 
