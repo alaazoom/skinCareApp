@@ -1,3 +1,5 @@
+![Task Manager Banner](mmm.jpg)
+
 # 🌸 Skin Care Store App
 
 A modern and scalable E-Commerce mobile application for skincare products built with **Flutter** and **Dart**, following **Clean Architecture** principles and using **BLoC State Management**. The application provides a smooth shopping experience with product browsing, filtering, favorites, cart management, address handling, coupon system, and a responsive UI with loading effects.
